@@ -5,7 +5,7 @@ A full-stack web application designed for managing patents efficiently. This pro
 ---
 
 ## 🌐 **Live Demo**
-> * "Currently not hosted*
+> * Currently not hosted*
 
 ---
 
